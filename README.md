@@ -30,3 +30,9 @@ Implements the git remote helper protocol:
 - Supports agent:// and https:// URLs
 
 Superinstance & Lucineer (DiGennaro et al.)
+
+---
+
+<i>Built with [Cocapn](https://github.com/Lucineer/cocapn-ai) — the open-source agent runtime.</i>
+<i>Part of the [Lucineer fleet](https://github.com/Lucineer)</i>
+
